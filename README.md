@@ -33,6 +33,14 @@ Welcome to our project repository! This project demonstrates a **prototype imple
     <td><img alt="ML3" src="./images/875d6fae-1851-421c-992e-3b3c63167129.jpg"></td>
     <td><img alt="ML4" src="./images/Correlation_Matrix.png"></td>
   </tr>
+  <tr>
+    <td><img alt="Lambda1" src="./images/9e1521ee-ad7d-4e5b-a2d2-66ef29e85c45.jpg"></td>
+    <td><img alt="Lambda2" src="./images/2d2f2f4f-601f-43e2-ad38-54c6ac2e1389.jpg"></td>
+  </tr>
+  <tr>
+    <td><img alt="Lambda3" src="./images/a1f7ad65-4ef4-4b9d-bfb1-1609b05f6f94.jpg"></td>
+    <td><img alt="ML5" src="./images/0198eab4-4535-408c-9d73-635518554e55.jpg"></td>
+  </tr>
 </table>
 
 ---
