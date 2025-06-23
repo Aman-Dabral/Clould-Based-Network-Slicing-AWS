@@ -1,0 +1,21 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "Clould-Based-Network-Slicing-Prototype",
+  "outputfilename": "Clould-Based-Network-Slicing-Prototype",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Aman Dabral",
+    "email": "amandabral27@gmail.com"
+  },
+  "wailsjsdir": "./frontend/src/lib",
+  "Info": {
+    "companyName": "Clould-Based-Network-Slicing-Prototype",
+    "productName": "Wails Vite",
+    "productVersion": "1.0.0",
+    "copyright": "Copyright.........",
+    "comments": "Built using Wails (https://wails.io)"
+  }
+}
