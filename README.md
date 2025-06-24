@@ -108,7 +108,7 @@ To get started with our project, follow these steps:
 
 3. Clone the repository:
    ```bash
-   git clone https://github.com/Aman-Dabral/Clould-Based-Network-Slicing-Prototype.git
+   git clone https://github.com/Aman-Dabral/Clould-Based-Network-Slicing-AWS.git
    ```
 
 4. Install dependencies:
